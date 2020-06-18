@@ -204,5 +204,6 @@
     <orderEntry type="library" name="Maven: io.quarkus:quarkus-jdbc-h2:1.5.1.Final" level="project" />
     <orderEntry type="library" name="Maven: com.h2database:h2:1.4.197" level="project" />
     <orderEntry type="library" name="Maven: org.locationtech.jts:jts-core:1.15.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.12" level="project" />
   </component>
 </module>
