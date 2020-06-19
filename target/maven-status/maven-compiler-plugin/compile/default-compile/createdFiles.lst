@@ -1,0 +1,7 @@
+org\despessoalapp\model\User.class
+META-INF\panache-archive.marker
+org\despessoalapp\model\Transaction.class
+org\despessoalapp\model\Balance.class
+org\despessoalapp\controle\BankControll.class
+org\despessoalapp\model\Bank.class
+org\despessoalapp\model\Entidade.class

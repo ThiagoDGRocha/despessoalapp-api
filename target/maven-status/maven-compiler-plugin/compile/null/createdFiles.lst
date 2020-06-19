@@ -1,2 +1,2 @@
-org\despessoalapp\ExampleResource.class
-META-INF\panache-archive.marker
+org\despessoalapp\Resources.class
+org\despessoalapp\dto\BankDto.class
